@@ -2,19 +2,11 @@
   <div id="app">
     <h1>Todo Vue Application</h1>
     <hr>
-    <TodoList />
+    <router-view />
   </div>
 </template>
 
-<script>
-import TodoList from '@/components/todolist'
-export default {
-  name: 'App',
-  components: {
-    TodoList
-  }
-}
-</script>
+
 
 <style>
 #app {

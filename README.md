@@ -1,25 +1,21 @@
-# todo
+Учебный проект созданный с использованием VueJS.
+При создании проекта рассмотрены следующие темы:
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-"# todo-list-vue" 
+# Работа и омпонентами
+# Создание данных
+# Передача параметров в компонент
+# Итерация массивов с v-for
+# Валидация параметров (props)
+# Работа со стилями
+# Динамические классы (v-bind: условие)
+# Добавление событий (v-on:)
+# Работа с методами
+# Работа с формами
+# Работа с моделями с v-model
+# Жизненный цикл (mounted)
+# Работа с сервером
+# Мультистраничность с Vue Router
+# Как работает v-if
+# Добавление компонента loader
+# Фильтры 
+# Computed свойства
