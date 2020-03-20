@@ -49,7 +49,6 @@ export default {
 
     filteredTodo: function () {
 
-      console.log(this.filter)
       let statusTodos = this.todos
 
       if (this.filter == 'all') {
@@ -62,7 +61,6 @@ export default {
         statusTodos = this.todos.filter(t => !t.completed)
       }
 
-      console.log(statusTodos)
       return statusTodos
     }
   },

@@ -16,7 +16,6 @@ export default {
     },
     methods: {
         onSubmit() {
-            console.log('sudmit', this.title)
 
             if (this.title.trim()) {
                 const newTodo = {
